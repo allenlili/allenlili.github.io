@@ -3,4 +3,4 @@ GitHub Pages
 
 [udacity-frontend-arcade-game](https://allenlili.github.io/udacity-frontend-arcade-game/)
 
-[udacity-frontend-mobile-portfolio/](https://allenlili.github.io/udacity-frontend-mobile-portfolio/)
+[udacity-frontend-mobile-portfolio](https://allenlili.github.io/udacity-frontend-mobile-portfolio/)
