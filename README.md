@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 
-### Udacity Fend
+### Udacity Frontend Degree
 
 - [udacity-fend-arcade-game](https://allenlili.github.io/udacity-fend-arcade-game/)
 
