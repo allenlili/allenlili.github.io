@@ -12,6 +12,8 @@
 
 - [udacity-fend-resume](https://allenlili.github.io/udacity-fend-resume)
 
+- [udacity-fend-cat-clicker](https://allenlili.github.io/udacity-fend-cat-clicker/)
+
 - [udacity-fend-neighborhood-map](https://allenlili.github.io/udacity-fend-neighborhood-map/)
 
 - [udacity-fend-feedreader](https://allenlili.github.io/udacity-fend-feedreader/)
