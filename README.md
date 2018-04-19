@@ -10,10 +10,11 @@
 
 - [udacity-fend-minicourse-ajax](https://allenlili.github.io/udacity-fend-minicourse-ajax/)
 
+- [udacity-fend-resume](https://allenlili.github.io/udacity-fend-resume)
+
 - [udacity-fend-neighborhood-map](https://allenlili.github.io/udacity-fend-neighborhood-map/)
 
 - [udacity-fend-feedreader](https://allenlili.github.io/udacity-fend-feedreader/)
 
-- [udacity-fend-resume](https://allenlili.github.io/udacity-fend-resume)
 
 
