@@ -2,9 +2,9 @@
 
 ## GitHub Pages
 
-- [udacity-fend-mindset](https://github.com/allenlili/udacity-fend-mindset/tree/master)
-
 - [udacity-fend-arcade-game](https://allenlili.github.io/udacity-fend-arcade-game/)
+
+- [udacity-fend-portfolio](https://allenlili.github.io/udacity-fend-portfolio)
 
 - [udacity-fend-mobile-portfolio](https://allenlili.github.io/udacity-fend-mobile-portfolio/)
 
