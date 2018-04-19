@@ -14,4 +14,6 @@
 
 - [udacity-fend-feedreader](https://allenlili.github.io/udacity-fend-feedreader/)
 
+- [udacity-fend-resume](https://allenlili.github.io/udacity-fend-resume)
+
 
