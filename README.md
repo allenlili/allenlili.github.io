@@ -14,6 +14,8 @@
 
 - [udacity-fend-resume](https://allenlili.github.io/udacity-fend-resume)
 
+- [udacity-fend-qrcode-slow](https://allenlili.github.io/udacity-fend-qrcode-slow)
+
 - [udacity-fend-cat-clicker](https://allenlili.github.io/udacity-fend-cat-clicker/)
 
 - [udacity-fend-neighborhood-map](https://allenlili.github.io/udacity-fend-neighborhood-map/)
