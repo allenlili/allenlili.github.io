@@ -16,6 +16,8 @@
 
 - [udacity-fend-qrcode-slow](https://allenlili.github.io/udacity-fend-qrcode-slow)
 
+- [udacity-fend-web-workers-demo](https://allenlili.github.io/udacity-fend-web-workers-demo)
+
 - [udacity-fend-cat-clicker](https://allenlili.github.io/udacity-fend-cat-clicker/)
 
 - [udacity-fend-neighborhood-map](https://allenlili.github.io/udacity-fend-neighborhood-map/)
