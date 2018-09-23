@@ -1,8 +1,8 @@
 # allenlili.github.io
 
-## GitHub Pages
+Hi, here could be a place to show some static sites. 
 
-### Udacity Frontend Degree
+## Udacity Frontend Degree
 
 - [udacity-fend-arcade-game](https://allenlili.github.io/udacity-fend-arcade-game/)
 
